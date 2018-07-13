@@ -1,0 +1,7 @@
+[
+    {"name":"Learning python ","auther":"Mark Lutz","price":1600},  
+    {"name":"programing python","auther":"Mark Lutz","price":1550},
+    {"name":"programing in practice","auther":"Ajay Mittal","price":450},
+    {"name":"Computer Architecture ","auther":"V.Rajaram","price":450},
+    {"name":"Computer Architecture ","auther":"andrew tanenbaum ","price":1000}
+]
